@@ -1,1 +1,1 @@
-goodby all
+goodby all;
