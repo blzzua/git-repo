@@ -1,3 +1,4 @@
-3
-в файле 0 есть строчка про гудбай
-print("feature message")
+3;
+в файле 0 есть строчка про гудбай;
+print("master message");
+print("feature message");

@@ -1,3 +1,4 @@
-1
-это от фичи гудбай
-print("feature message")
+1;
+это от фичи гудбай;
+print("master message");
+print("feature message");

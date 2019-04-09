@@ -1,2 +1,3 @@
-goodby all
-print("feature message")
+goodby all;
+print("master message");
+print("feature message");
